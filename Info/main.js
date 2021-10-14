@@ -1,7 +1,8 @@
 let listGames =[
 		"Float Boo",
 		"Pixel Dado",
-		"Pixel Moneda"
+		"Pixel Moneda",
+		"Frog Ninja"
 	];
 let canShowing = false;
 function starts(){
